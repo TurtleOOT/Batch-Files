@@ -1,1 +1,1 @@
-Echo This was made in Gthub file creator
+Echo This was made in Github file creator
